@@ -1,2 +1,5 @@
-let x = 1
-console.log(x)
+let x = 2
+
+for (let i = 0; i < x; i++) {
+    console.log(i)
+}
